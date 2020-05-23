@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         Block popup on ani.gamer.com.tw
+// @name         Popup blocker on ani.gamer.com.tw
 // @namespace    https://github.com/gslin/block-popup-on-ani.gamer.com.tw/
 // @version      0.20200523.0
-// @description  Block popup on ani.gamer.com.tw
+// @description  Block popup windows on ani.gamer.com.tw
 // @author       Gea-Suan Lin <gslin@gslin.com>
 // @match        https://ani.gamer.com.tw/*
 // @grant        none
